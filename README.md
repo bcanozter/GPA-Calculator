@@ -14,6 +14,6 @@ Project is created with:
 
 ## Author
 
-Burak Can Ozter
-burak.ozter@dal.ca
+* Burak Can Ozter
+* burak.ozter@dal.ca
 	
