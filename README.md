@@ -6,6 +6,12 @@
 ## General info
 This project is a basic GPA-Calculator app for iPhone devices. 
 
+''
+IMPORTANT
+
+This software has only been tested on iPhone X runnning on ios 12.2. You may or may not encounter bugs or the app might crash.
+''
+
 	
 ## Technologies
 Project is created with:
