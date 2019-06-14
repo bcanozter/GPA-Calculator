@@ -19,7 +19,7 @@ Project is created with:
 
 ## Preview
 
-<img src="https://i.imgur.com/zzC4vkx.png" width="300">
+<img src="https://i.imgur.com/ojClEx3.png" width="300">
 
 
 ## Author
