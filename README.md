@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Preview](#preview)
 * [Author](#author)
 
 ## General info
@@ -15,6 +16,10 @@ This software has only been tested on iPhone X runnning on ios 12.2. You may or 
 ## Technologies
 Project is created with:
 * XCode version: 10.2.1
+
+## Preview
+
+<img src="https://i.imgur.com/zzC4vkx.png" width="300">
 
 
 ## Author
